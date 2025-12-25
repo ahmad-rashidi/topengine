@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f6f8;
+    margin: 0;
+}
+
+.admin-header {
+    background: #111;
+    color: #fff;
+    padding: 15px 20px;
+}
+
+.admin-header a {
+    color: #fff;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+.admin-container {
+    padding: 20px;
+}
+
+.card {
+    background: #fff;
+    padding: 20px;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0,0,0,.08);
+    margin-bottom: 20px;
+}
